@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="https://www.dita-ot.org/project">
+  <deliverable name="Mobile Phone to Webhelp" id="webhelp">
+    <context name="">
+      <input href="mobilePhone.ditamap"/>
+    </context>
+    <output href="webhelp-output"/>
+    <publication transtype="webhelp-responsive"/>
+  </deliverable>
+  <deliverable name="Mobile Phone to PDF-CSS" id="pdf-css">
+  <context name="">
+    <input href="mobilePhone.ditamap"/>
+  </context>
+  <output href="pdf-output"/>
+  <publication transtype="pdf-css-html5"/>
+  </deliverable>
+</project>
