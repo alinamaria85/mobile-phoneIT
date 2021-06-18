@@ -34,7 +34,7 @@
           <data name="hide" value="yes"/>        
         </data>
       </topicmeta>
-        <topicref href="../../../topics/repairingThePhone.dita"/>
+        <topicref href="topics/repairingThePhone.dita"/>
         <topicref href="topics/runDiagnosticReport.dita"/>
     </topicref>
     <topicref href="productSbjSchemeVals.ditamap" format="ditamap" type="subjectScheme"/>
