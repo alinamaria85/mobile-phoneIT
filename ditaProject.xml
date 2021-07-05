@@ -4,7 +4,7 @@
     <context name="">
       <input href="mobilePhone.ditamap"/>
     </context>
-    <output href="../webhelp-output"/>
+    <output href="webhelp-output"/>
     <publication transtype="webhelp-responsive"/>
   </deliverable>
   <deliverable name="Mobile Phone to PDF-CSS" id="pdf-css">
