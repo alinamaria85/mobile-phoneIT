@@ -7,7 +7,7 @@
     <output href="../webhelp-output"/>
     <publication transtype="webhelp-responsive"/>
   </deliverable>
-  <deliverable name="Mobile Phone to PDF-CSS" id="pdf-css">
+  <deliverable name="Mobile Phone to PDF-CSS" id="pdf">
   <context name="">
     <input href="mobilePhone.ditamap"/>
   </context>
