@@ -8,7 +8,7 @@
     <publication id="null" idref="null" transtype="pdf-css-html5"/>
     <deliverable id="webhelp" name="Mobile Phone to Webhelp">
         <context idref="mobile"/>
-        <output href="../webhelp-output"/>
+        <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="pdf" name="Mobile Phone to PDF-CSS">
