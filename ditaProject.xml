@@ -151,4 +151,9 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
+    <deliverable id="Mobile-phone_deliverable-1" name="Mobile-phone deliverable">
+        <context idref="mobile"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
 </project>
