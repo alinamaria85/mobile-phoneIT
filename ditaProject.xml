@@ -6,12 +6,17 @@
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
     <publication id="null" idref="null" transtype="pdf-css-html5"/>
-    <deliverable id="Mobile_Phone_to_Webhelp-2" name="Mobile Phone to Webhelp">
+    <deliverable id="Mobile_Phone_to_Webhelp-5" name="Mobile Phone to Webhelp">
         <context idref="mobile"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Mobile_Phone_to_PDF-CSS-3" name="Mobile Phone to PDF-CSS">
+    <deliverable id="Mobile_Phone_to_PDF-CSS-6" name="Mobile Phone to PDF-CSS">
+        <context idref="mobile"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Mobile-phone_deliverable-46" name="Mobile-phone deliverable">
         <context idref="mobile"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -21,12 +26,7 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Mobile-phone_deliverable-5" name="Mobile-phone deliverable">
-        <context idref="mobile"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Mobile-phone_deliverable-6" name="Mobile-phone deliverable">
+    <deliverable id="Mobile-phone_deliverable-45" name="Mobile-phone deliverable">
         <context idref="mobile"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -216,7 +216,7 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Mobile-phone_deliverable-4" name="Mobile-phone deliverable">
+    <deliverable id="Mobile-phone_deliverable-47" name="Mobile-phone deliverable">
         <context idref="mobile"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
